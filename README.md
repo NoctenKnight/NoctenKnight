@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/NoctenKnight/NoctenKnight/main/banner.jpg" width="100%" alt="Custom Banner" />  
+  <img src="https://raw.githubusercontent.com/NoctenKnight/NoctenKnight/main/banner.jpg" width="50%" alt="Custom Banner" />  
 </p>
 
   
