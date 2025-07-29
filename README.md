@@ -15,10 +15,10 @@
   
 ### 🧍 About Me  
   
-- 🧠 Building hybrid AI agents that whisper in code.  
-- 🕶 13 y/o builder — a ghost in the system.  
-- ⚙ Modular. Silent. Works offline.  
-- 🕳 My code reflects solitude. Cold. Controlled. Minimalist by nature.  
+- 🌑 Operating from the dark. 
+- 🤷‍♂️ 13 y/o builder — a ghost in the system.  
+- ⚙ Modular. Silent.  
+- 🕳️ Believe in persence withou spotlight. Execution > Attention  
   
 ---  
   
