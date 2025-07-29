@@ -59,5 +59,5 @@
 ---  
   
 <p align="center">  
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="250px" alt="particles">  
+  <img src="https://media.giphy.com/media/uHo3T7P0YX7Ec/giphy.gif" width="250px" alt="particles">  
 </p>
