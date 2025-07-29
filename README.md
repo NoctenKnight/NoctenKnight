@@ -1,9 +1,4 @@
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/NoctenKnight/NoctenKnight/main/banner.jpg" width="50%" alt="Custom Banner" />  
-</p>
-
-  
-<h1 align="center">🦇 Nocten Knight</h1>  
+ <h1 align="center">🦇 Nocten Knight</h1>  
 <p align="center"><i>Built in shadows. Runs in silence. Architect of digital darkness.</i></p>  
   
 ---  
