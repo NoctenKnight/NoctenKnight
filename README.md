@@ -1,48 +1,63 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ6vyP6v5GZUI/giphy.gif" width="100%" alt="Dark glitch intro" />
-</p>
-
-<h1 align="center">🦇 Nocten Knight</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhzZm9rczRpbzZna2NwMGJtaXQzNGFxaTVuZmhhd3F5eWd5bHk3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L0a3FfRpV3i3AKVOwY/giphy.gif" width="80px" alt="Bat Cyberpunk">
-</p>
-
-<p align="center">
-  <b><i>Self-Taught</i></b> 💻⚔
-</p>
-
----
-
-## 🧰 Toolbox
-
-<div align="center">
+<p align="center">  
+  <img src="https://svgshare.com/i/15fE.svg" width="100%" alt="Bat background" />  
+</p>  
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,react,flutter,firebase,figma,github,vscode,bash,linux,postman,vercel&theme=dark" />
-
-</div>
-
----
-
-### 🧬 Ideology
-
-> 🦇 I don’t build in the spotlight. I build in silence.  
-> 🤖 I don’t chase trends. I create what I need.  
-> 🪓 I cut the noise. Every line of code must survive darkness.  
-> 🛠 No backup plan. Just relentless engineering.
-
----
-
-### 📡 Connect in the Shadows
-
-<p align="center">
-  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="glitch footer" />
+<h1 align="center">🦇 Nocten Knight</h1>  
+<p align="center"><i>Built in shadows. Runs in silence. Architect of digital darkness.</i></p>  
+  
+---  
+  
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&width=435&color=00FFFF&lines=Offline-first.+Cloud-optional.;Designed+to+stay+hidden.;Self-taught.;Cold+code+for+a+warmless+world." alt="Typing SVG" />  
+</p>  
+  
+---  
+  
+### 🧍 About Me  
+  
+- 🧠 Building hybrid AI agents that whisper in code.  
+- 🕶 13 y/o builder — a ghost in the system.  
+- ⚙ Modular. Silent. Works offline.  
+- 🕳 My code reflects solitude. Cold. Controlled. Minimalist by nature.  
+  
+---  
+  
+### 🕷 Projects  
+  
+| Project | Description | Status |  
+|--------|-------------|--------|  
+| [🧠 Kiron](https://github.com/noctenknight/Kiron) | Offline + Online AI Assistant | 🚧 Early UI |  
+| [💪 Gotham Fit Demo](https://noctenknight.github.io/Gotham-fit-demo/) | Dark-themed fitness web | 🧪 Prototype |  
+  
+---  
+  
+### 🧰 Toolbox  
+  
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/VS+Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  
+</p>  
+  
+---  
+  
+### 📡 Connect in the Shadows  
+  
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">  
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />  
+</a>  
+  
+---  
+  
+> 🖤 "Not everything needs to be seen. Some things are better left running in the dark."  
+  
+---  
+  
+<p align="center">  
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="250px" alt="particles">  
 </p>
