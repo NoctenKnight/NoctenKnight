@@ -1,6 +1,7 @@
 <p align="center">  
-  <img src="https://svgshare.com/i/15fE.svg" width="100%" alt="Bat background" />  
-</p>  
+  <img src="https://raw.githubusercontent.com/NoctenKnight/NoctenKnight/main/banner.jpg" width="100%" alt="Custom Banner" />  
+</p>
+
   
 <h1 align="center">🦇 Nocten Knight</h1>  
 <p align="center"><i>Built in shadows. Runs in silence. Architect of digital darkness.</i></p>  
