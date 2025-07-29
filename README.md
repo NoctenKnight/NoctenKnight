@@ -8,7 +8,7 @@
 ---  
   
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&width=435&color=00FFFF&lines=Offline-Night+Owl;Self-taught.;BatMan+Inspired." alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&width=435&color=00FFFF&lines=Night+Owl;Self-taught.;BatMan+Inspired." alt="Typing SVG" />  
 </p>  
   
 ---  
