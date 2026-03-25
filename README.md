@@ -1,4 +1,4 @@
-# Nocten Knight
+# Nocten 
 
 Self-taught. 14. Building things that actually work.
 
